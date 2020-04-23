@@ -2,12 +2,12 @@ node {
 
        stage ( " Build " )
        {
-         sh " echo 'trina is good' "
+         sh " echo 'trina is very good' "
         }
 
         stage ( " Test " )
          {
-           sh "echo 'sushanta is good' "
+           sh "echo 'sushanta wife is trina' "
         }
        stage("have fun")
           {
