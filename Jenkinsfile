@@ -1,9 +1,9 @@
 node {
     stage ( " Build " ) {
-         sh " echo ' I love my India ' "
+         sh " echo ' I love  puchu ' "
        }
       stage ( " Test " ){
-        sh  " echo ' I love my Baby ' "
+        sh  " echo ' I love  Baby ' "
        }
 }
 
