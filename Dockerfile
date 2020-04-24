@@ -1,4 +1,4 @@
 FROM centos
-RUN yum install python2 -y
+RUN yum install -y python-2
 COPY ./test.sh /app/
 

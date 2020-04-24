@@ -1,4 +1,4 @@
-#!/bin/bash
- 
-echo " i love you "
+#! /bin/bash
+
+echo " I am a good boy "
 
