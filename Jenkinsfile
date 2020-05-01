@@ -1,10 +1,14 @@
-node {
-    stage ( " Build " ) {
-         sh " echo ' I love  puchu ' "
-       }
-      stage ( " Test " ){
-        sh  " echo ' I love  Baby ' "
-       }
+node
+{
+   stage ( " deploy " )
+     {
+        echo " how are you " 
+     }
+     stage ( " package " )
+      {
+        echo " i am fine "
+        }
 }
+
 
 

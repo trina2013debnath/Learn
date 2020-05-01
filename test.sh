@@ -1,4 +1,5 @@
 #! /bin/bash
 
-echo " I am a good boy "
+echo " I am cool "
+
 
