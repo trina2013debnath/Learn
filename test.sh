@@ -1,5 +1,5 @@
 #! /bin/bash
 
-echo " I am cool "
+echo " I am sonai "
 
 
