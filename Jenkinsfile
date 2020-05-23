@@ -4,7 +4,7 @@ node
      {
         echo " how are you " 
      }
-     stage ( " package " )
+     stage ( " testing " )
       {
         echo " i am fine "
         }

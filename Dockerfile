@@ -1,4 +1,4 @@
 FROM centos
-RUN yum install httpd -y
+RUN yum install nginx -y
 
 
